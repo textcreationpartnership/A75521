@@ -1,0 +1,1057 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appendix of the lavves, articles, &amp; ordinances, established for marshall discipline, in the service of the Lords the States Generall of the united provinces, under the commaund of his highnesse the Prince of Orange Together, vvith the articles of quarter for the ransoming of officiers and souldiers, agreed and concluded on, betvveene the king of Spayne on the on [sic] side, and the States Generall of the united provinces on the other side. Translated out of Dutch into English, by Captayne Henry Hexham, quarter-master to the regimant of Colonell Goring.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75521</idno>
+            <idno type="STC">Wing A3572</idno>
+            <idno type="STC">ESTC R231620</idno>
+            <idno type="EEBO-CITATION">99897448</idno>
+            <idno type="PROQUEST">99897448</idno>
+            <idno type="VID">137176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137176)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2487:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appendix of the lavves, articles, &amp; ordinances, established for marshall discipline, in the service of the Lords the States Generall of the united provinces, under the commaund of his highnesse the Prince of Orange Together, vvith the articles of quarter for the ransoming of officiers and souldiers, agreed and concluded on, betvveene the king of Spayne on the on [sic] side, and the States Generall of the united provinces on the other side. Translated out of Dutch into English, by Captayne Henry Hexham, quarter-master to the regimant of Colonell Goring.</title>
+                  <author>Hexham, Henry, 1585?-1650?</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p. : ill (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>by Isaac Burchoorn,</publisher>
+                  <pubPlace>Printed in the Hagh :</pubPlace>
+                  <date>MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Roman numeral date is made with turned C's.</note>
+                  <note>With a title page woodcut.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military law --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Spain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137176:1"/>
+            <p>AN APPENDIX Of the Lavves, Articles, &amp; Ordinances, eſtablished for Marshall Diſcipline, in the ſervice of the Lords the States Generall of the united Provinces, under the Commaund of his Highneſſe the Prince of Orange.</p>
+            <p>TOGETHER, <hi>VVith the Articles of Quarter for the Ranſoming of Officiers and Soul<g ref="char:EOLhyphen"/>diers, agreed and concluded on, betvveene the king of Spayne on the on ſide, and the States Generall of the united Provinces on the other ſide.</hi>
+            </p>
+            <p>Tranſlated out of Dutch into English, by Captayne HENRY HEXHAM, Quarter-maſter to the Regiment of Colonell GORING.</p>
+            <figure/>
+            <p>Printed in the Hagh by ISAAC BURCHOORN, MDCXLIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:137176:2"/>
+            <pb facs="tcp:137176:2"/>
+            <head>To his honored Couſins, IOHN HEYDON, <hi>Eſquire, dvvelling at his Lordship of Oxie-hall neere VVatford in Hartford-shire:</hi> AND IOHN HARVIE, Eſquier, Iuſtice of Peace &amp; Corum at Wanſey in the Countie of Eſſex, and one of the Gentlemen of his Majeſties <hi>privie Chamber,</hi> HENRY HEXHAM, their ould Kinſman, wisheth them all health, and happineſſe.</head>
+            <p>When I heare (deare Couſins) of the pillagins, plun<g ref="char:EOLhyphen"/>drings, and inſolences, committed by ſome of the Melitia on both ſides in my native Countrie; it grieves mee at the very heart, to think upon yt, and is a juſt judgment of God upon vs for our ſinnes, which I beſeech the Lord in mercie to divert his punishments, and that by our timely repentance, wee may ſtay the violls of his wrath, which begins to be powred downe, upon our deare Countrie and Ireland. And thoug his ſacred Majeſty by his Generalls, as likewiſe the Parliament by theirs, have made, and proclaimed good, and wholeſome Lawes and Articles, for the keeping and obſerving of Marshall diſcipline, &amp; the reſtraint of inſolences in their Armies: yet it will not be amiſſe, to tranſport into England, that our Chiefs &amp; Commandeurs there, maye ſee the Lawes, Articles, Placcards, and Pro<g ref="char:EOLhyphen"/>clamations, touching Marſchall diſcipline, by which our ould, and con<g ref="char:EOLhyphen"/>quering armie here is governed in the ſervice of the high and mighty Lords the States Generall. And having runne through the three parts of the Prin<g ref="char:EOLhyphen"/>ciples of the Art military, practiſed in theſe Netherlands, I thought that my workes were not compleate, unleſſe this Appendix of Marshall diſcipline were annexed unto them. And now by the grace of God, having finished &amp; even this daye putt an end to my Militarie Labours: I render thanks unto the Lord of Hoaſts, who hath given mee health, wiſedome, and un<g ref="char:EOLhyphen"/>derſtanding to performe this laborious worke. And eternally bleſſed be his glorious name, who by the eye of his divine providence, and under the shaddowe of his wings, hath preſerved mee the ſpace of two and fortie yeares through many dangers: and though I have bin preſent in many hott ſervices in this Land: yet he hath not given the Ennemy ſo much power, as to draw one drop of bloode from mee. And now this being the laſt worke. It comes unto you, to deſire your Patronage as a token and an ex<g ref="char:EOLhyphen"/>preſſion of my loue and reſpect unto you both. Beſeeching the Almighty to preſerve you, my Aunt your Mother, &amp; all our familly in health, and hap<g ref="char:EOLhyphen"/>pineſſe, &amp; hereafter to crowne you all with everlaſting bliſſe reſting.</p>
+            <closer>
+               <signed>Your ever loving Couſſin to commaund<lb/> HENRY HEXHAM.</signed>
+               <dateline>From the Citie of Delph, in Holland, <date>this 30,<lb/> of Ianuarij 1643. <hi>Stylo novo.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="appendix">
+            <pb facs="tcp:137176:3"/>
+            <pb n="1" facs="tcp:137176:3"/>
+            <head>AN APPENDIX OF THE LAWES, ARTICLES, AND Ordinances touching marshall diſcipline.</head>
+            <head type="sub">Sett downe, and eſtablished by the Lords the States, Generall of the Vnited Provinces.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by daily experience, many diſorders are found, to gtowe a<g ref="char:EOLhyphen"/>mongſt thoſe that beare armes, tending to the great dammage of theſe Countreys, and prejudice of the gouvernement thereof, which notwith<g ref="char:EOLhyphen"/>ſtanding are not any where ſo puniſhed, as in reafon they ought, becauſe there is no certaine order, or lawe touching like matters, as yet decreed and and publiſhed: The States Generall of the Vnited Provinces have therefore (with the advice of the Councell of the State of the ſame) ordained, appointed, and deereed, doe by theſe preſents ordaine, appoint, and decree the orders &amp; laws here enſuing, which is their will, to have from point to point ſtrictly obſerved, and followed by all thoſe, that beare armes in their ſervice. To which end, they ſhallbe every where publiſhed, and according ſworne to be kept by the Souldiers.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>FIrſt, he that ſhall take the Lords name in vaine, or blaſpheme the ſame, ſhall for the firſt time make an honorable amends, and be kept three dayes in priſon at bread and water: The ſecond time he ſhall have a glowing yron thruſt through his tongue, then be ſtripped to his ſhirt, and ſo baniſhed out of the Vnited Provinces.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>The like penalty ſhall they incurre, for the firſt and ſecond times, who ſhal either doe, or ſay ought in deſpite, or deriſion of Gods word, or the Miniſters of the Church.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>All wilfull murthers, rapes, adultery, fyring of houſes, the very, violence, outrage, falſhood, &amp; other like bad facts, and open offenſes, or vnnaturall abuſes, ſhalbe puniſhed with death.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>None ſhall any way outrage, ſtrike, knock, beate, threaten, or diſhoneſtly touch any widowes, maryed, or vnmaried women, or ſuch as are in childbed, or with child, or any young children, on paine to be diſcharged without money, or paſport, or els puniſhed cor<g ref="char:EOLhyphen"/>porally, according to the quality of the offenſe. Likewiſe all common whores ſhall for the firſt time bee expulſed out of the Campe with ſhame, and being found there againe, the ſecond time, ſhalbe ſoundly whipped and baniſhed.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>He that ſhal have done, or conſpired ought againſt the States, the Countrey, Townes, or other places, thereof, or againſt any Governours, or Captains in the ſame, whereby the publique ſtate of the Land may be in any ſort endammaged, or endangered: as alſo who<g ref="char:EOLhyphen"/>ſoever ſhal conſent therevnto, ſhall without any mercie bee hanged.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>The like puniſhment ſhall they alſo incurre, whoſoever he be that hath knowledge of any ſuch matter, and ſhall not reveale it to their Captaine, or chiefe Officers.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>None ſhall raiſe any mutiny, or make any vnlawfull aſſembly, on whatſoever ſecret, cloaked, or other pretences whatſoeuer it be, but ſhall give notice thereof to their Com<g ref="char:EOLhyphen"/>maunders, on paine of hanging.</p>
+            </div>
+            <div n="8" type="part">
+               <pb n="2" facs="tcp:137176:4"/>
+               <head>VIII.</head>
+               <p>In like ſort ſhal they alſoo bee puniſhed, that ſhalbe preſent at ſuch aſſemblies, or call, ſtir vp, and incite any to be preſent thereat. And it is to be vnderſtood alſo, that ſuch Offi<g ref="char:EOLhyphen"/>cers as ſhalbe at the like ſeditious meetings, ſhal receive puniſhment before all other ſoul<g ref="char:EOLhyphen"/>diers, except thoſe (that are noe authors thereof.)</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>He that ſhal ſpeake ill of the States general, or particular, the Councel of State, or other Superiours, or ſhall ſpeake ought to deſpite, or deride any of them, ſhall without mercy be puniſhed with death.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>He that ſhal have ſpoken any wordes tending to ſedition, mutiny, or diſobedienee, or that having heard ſuch wordes, and ſhal not preſently acquaint his Captaine therewith, ſhalbe puniſhed with death.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>In like ſort ſhall they alſo be puniſhed, who rehearſe any ſuch words in preſence of pri<g ref="char:EOLhyphen"/>vate ſouldiours, either of themſelves, or by ſuggeſtion of others, or practiſe ought, where<g ref="char:EOLhyphen"/>by any mutiny, or ſedition may growe.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>No man be it out of garded, or beſieged places, or in other like caſes, ſhal vſe any ſpeech or correſpondence with the ennemie, or ſend him any meſſages or Letters, or receive any from him, or deale in like ſorte with any of his confederates, bee it in ſecret or publi<g ref="char:EOLhyphen"/>que, without the conſent firſt had of his Gouvernour, or Cap. hee shall make it foorth<g ref="char:EOLhyphen"/>with knowne vnto him, vnleſſe he be thereto aucthoriſed. Neither ſhall any man be adherent, or in any fort aſſiſtant to the enemy, on payne of death.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Likewiſe none ſhal conferre, or converſe with any Trompetter or Drumme of the ene<g ref="char:EOLhyphen"/>mies, or with any other ſent on a meſſage from him, but they onely who are therevnto ap<g ref="char:EOLhyphen"/>pointed, on paine of death.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIIII.</head>
+               <p>None ſhall in going, departing, lying ſtill, muſtering, or in garniſon doe outrage, or ſpoyle to the inhabitants of theſe Countreys, their favorours, or confederates, or take from them any victuals, money, or ought els, without paying duely for the ſame, nor yet throw downe, or ſpoyle any water-mils, or water-works, nor ſet on fire the ſame, or other houſes, or the campe at the breaking vp thereof, without ſpecial commaund from the General, or other Chiefe Officer, on payne of death.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>Likewiſe none ſhal either doe, or practiſe ought againſt any perſons, Townes, Villages, Forts, Havens, or whatſoever goods warranted by paſportes, or other aſſurances from the Generality, on payne of death.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>He that shal departe from one Company to another, or elſwhere, or shal leave the Co<g ref="char:EOLhyphen"/>lours vnder which he ſerveth, is to have a ſufficient paſport from his Cap. or Commaunder and failing therein, ſhalbe puniſhed with death.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>Whatſoever Captaine ſhall entertaine any ſouldours, without a lawfull diſcharge from their former Cap. ſhalbe puniſhed with death.</p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <p>Jf any ſouldour (ſerving on horſe or foote) ſhall beate or ſtrike his hoſt, hoſteſſe, their man, or maide-ſervant, he ſhal for the firſt time be kept three dayes at bread and water, the ſecond make an honourable amendes, and before the whole watch bee diſarmed, and then baniſhed out of the Company, And if the party ſo ſtriken be maimed, or bloud drawne, then ſhal the ſouldiour offending have his hand ſtriken of.</p>
+            </div>
+            <div n="19" type="part">
+               <pb n="3" facs="tcp:137176:4"/>
+               <head>XIX.</head>
+               <p>Whoſoever ſhal have taken, or ſtolne any victuals, or other proviſions brought vp, to<g ref="char:EOLhyphen"/>wards the Campe, Garniſon, ot any Towns, or places vnder the Juriſdiction of the States generall ſhal be hanged.</p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <p>Likewiſe none ſhal out of the Campe, or Garniſon forcibly take, or els buy vp before hand, any victuals, or goods bound thitherwardes, before the ſame ſhalbe brought to a fit place for ſaile, and taxed: Neither ſhall he robb any Cabbin, ſhop, tent, Victualer, or Mar<g ref="char:EOLhyphen"/>chand that is there, for the helpe of the Campe, or Garniſon on payne of death.</p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>He that ſhal goe out of the quarter from his Colours, or Garniſon, further then a Ca<g ref="char:EOLhyphen"/>non-ſhot, without his Captaines leave ſhalbe puniſhed with death.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>Whoſoever ſhal goe out of the Campe, beſieged towne, Fort or other place, without the ſpeciall conſent of his Captaine, or Officer, for any cauſe, bee it for forrage, or ought els, shalbe hanged.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>Whoſoever shal take any Cattaile, or beaſts within the Countries which lie vnder the obedience of the Generality, shalbe punished as a Theife.</p>
+            </div>
+            <div n="24" type="part">
+               <head>XXIV.</head>
+               <p>He that in marching by land towardes the fielde, or in returning thence, shal forſake his Colours, or Cornet, shal without any mercy be punished with death.</p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV.</head>
+               <p>And whoſoever (not being viſited with manifeſt ſicknes, and the ſame knowne to his Cap. or Commaunder) shal keepe along with the baggage, or ride on the waggons, shalbe diſarmed before the whole Company, and then banished without money or paſpott.</p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI.</head>
+               <p>If any shal neglect his watch, or other ſervice committed vnto him, he shalbe punished with death.</p>
+            </div>
+            <div n="27" type="part">
+               <head>XXVII.</head>
+               <p>If any ſouldiour shalbe found ſleeping on his centinelship, he shal without any mercy be punished with death.</p>
+            </div>
+            <div n="28" type="part">
+               <head>XXVIII.</head>
+               <p>Whatſoever ſouldiour shal, either by day or night depart from his centinelship, where he hath bene placed by his Corporal, vnles he be called thence, or relieved by the ſaid Cor<g ref="char:EOLhyphen"/>porall, shal receive punishment of death without any mercy.</p>
+            </div>
+            <div n="29" type="part">
+               <head>XXIX.</head>
+               <p>None shal declare, or make knowne the watch-word to the enemy, or any other, or give any other word, then is given him by the Officer, on payne of death.</p>
+            </div>
+            <div n="30" type="part">
+               <head>XXX.</head>
+               <p>Whoſoever shal abſent himſelfe out of the Courte of garde above two houres in the day time, or any within the night, without his corporals leave shalbe punished with death</p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXI.</head>
+               <p>None shal without lawfull cauſe raiſe any tumult, make an alarme, or diſcharge a piece by night, or make any noyſe, or doe ought els, whereby the ſame may growe (without cauſe) on payne of death.</p>
+            </div>
+            <div n="32" type="part">
+               <head>XXXII.</head>
+               <p>He that shal preſume within the Campe, Quarter, or place, where he lyeth in garniſon, as alſo after the watch is ſet, to drawe his weapon, shal forfeict his life: as alſo if he doe it out of the Campe, Towne, or place, without the leave of his Officer.</p>
+            </div>
+            <div n="33" type="part">
+               <pb n="4" facs="tcp:137176:5"/>
+               <head>XXXIII.</head>
+               <p>He that ſhall ſtrike any man with his ſword vndrawne, or with a cudgel, ſtone, or other<g ref="char:EOLhyphen"/>wiſe, that bloud followes, ſhall looſe his hand.</p>
+            </div>
+            <div n="34" type="part">
+               <head>XXXIIII.</head>
+               <p>He that ſhal give any one a boxe on the eare, ſhall in preſence of the Company take the like boxe againe of the party ſo wronged, and beſides be diſarmed, and baniſhed the Com<g ref="char:EOLhyphen"/>pany.</p>
+            </div>
+            <div n="35" type="part">
+               <head>XXXV.</head>
+               <p>No Souldiers ſhal without order from their Chiefs, Captaines, or Commaunders hold any common meeting or gathering together, bee it to demaund money, or ought els, nor yet be preſent at ſuch aſſemblies, on payne of death. Provided always, that ſuch Capt. or Commaunders as ſhal ſuffer the ſame to happen at vndue ſeaſons, and in vnlawfulwiſe, ſhal (for an example to others) bee puniſhed with death before all the ſouldiers.</p>
+            </div>
+            <div n="36" type="part">
+               <head>XXXVI.</head>
+               <p>If any ſhall call for money, as they are marching in the face of the ennemy, or vpon any enterpriſe, they shal receive punishment of death without any mercy.</p>
+            </div>
+            <div n="37" type="part">
+               <head>XXXVII.</head>
+               <p>If it chance that the monethly entertainement bee not payed on the very day, or that it cannot bee ſent vnto the ſouldiours for ſome cauſe, be it through any hinderance of the enemy or otherwiſe, none shall therefore make any tumult, or ſpeake ſeditious wordes, or ſeeke to force his Captaine to the payment thereof, neither yet doe the leſſe duty, but shall have a care of his marches and watches, contenting him ſelfe with a reaſonable loane, vntil the money be come, or maye come, &amp; he shall fully performe the dutire required of a good ſouldiour. And whoſoever doth the contrarie, or accompanieth thoſe that doe it, shalbe punished with death.</p>
+            </div>
+            <div n="38" type="part">
+               <head>XXXVIII.</head>
+               <p>Noe Captaines, Lieutenants, or Enſignes shal depart out of the place where their Com<g ref="char:EOLhyphen"/>panies lye in garniſoen, whether it bee to ſolicite for payment of their ſaid Companies, or vpon their owne buſines, without leaue of their Commaunder, or Governour, on payne of death.</p>
+            </div>
+            <div n="39" type="part">
+               <head>XXXIX.</head>
+               <p>He that in anie quarrell, fight, or otherwiſe, ſhal call thoſe of his nation to helpe, or ga<g ref="char:EOLhyphen"/>ther an aſſemblie together, ſhalbe hanged.</p>
+            </div>
+            <div n="40" type="part">
+               <head>XL.</head>
+               <p>He that shalbe found by day, or by night out of the Campe, or a place beſieged, without his Captaines leave, shalbe punished with death.</p>
+            </div>
+            <div n="41" type="part">
+               <head>XLI.</head>
+               <p>Whoſoever shall goe a free-booting, and commit ſpoyles, extorſions, and theft, shall be hanged.</p>
+            </div>
+            <div n="42" type="part">
+               <head>XLII.</head>
+               <p>If one ſouldior challenge another into the field, without leave from him that commaun<g ref="char:EOLhyphen"/>deth in that quarter, hee shalbe punished with death.</p>
+            </div>
+            <div n="43" type="part">
+               <head>XLIII.</head>
+               <p>If any Corporal, or other commaunding the watch, shall ſuffer two ſouldiours to goe foorth to fight, he shall without mercy be punished with death.</p>
+            </div>
+            <div n="44" type="part">
+               <head>XLIV.</head>
+               <p>Any ſouldour being wronged by word, or deed, he shal repaire to him that commaun<g ref="char:EOLhyphen"/>des in the quarter, who after the hearing of both parties, shall cauſe ſatiſfaction of the wrong he hath done vnto the party intereſſed, with bare head, &amp; in preſence of the whole watch: And if he finde cauſe, shall alſo diſarme the wrong doer, and banish him out of the Company.</p>
+            </div>
+            <div n="45" type="part">
+               <pb n="5" facs="tcp:137176:5"/>
+               <head>XLV.</head>
+               <p>And if there bee no witnes of the quarell, then shall the ſayd Commander cauſe the parties to agree in his preſence whereto if they will not condeſcend, then both, or hee that denies it, shalbe diſarmed, and baniſhed out of the Company</p>
+            </div>
+            <div n="46" type="part">
+               <head>XLVI.</head>
+               <p>Whatſoever ſouldiour or Commaunder shal goe out of the campe, Towne, or fort, or enter thereinto by any other way, then at the poris, and ordinary entrances shalbe hanged</p>
+            </div>
+            <div n="47" type="part">
+               <head>XLVII.</head>
+               <p>If any ſouldiour shall refuſe the commaund of his Cap. or any other, who commaunde over him in the ſeruice of the States Generael, and not performe the ſame, hee shalbe puni<g ref="char:EOLhyphen"/>shed with death: as hee likewiſe shal, who tranſgreſſeth any of the Generalls command<g ref="char:EOLhyphen"/>ments published by ſound of drumme, or trumpet.</p>
+            </div>
+            <div n="48" type="part">
+               <head>XLVIII.</head>
+               <p>At the ſoundich of any alarme every one shall reſort to his Enſigne, or Cornet, and who ſoever comes not thither (vnleſſe it be on apparaut neceſſi,) or runnes to an other pla<g ref="char:EOLhyphen"/>ce, without conſent and ſpeciall order from his Commaunder, or comes not ſo ſoone as his Enſigne, shalbe punished with death,</p>
+            </div>
+            <div n="49" type="part">
+               <head>XLIX.</head>
+               <p>Every Souldiour ſhal aide, and defend his Colours by day and night, and on the firſt warning repaire vnto them, not departing thence, vntil it bee brought into a place of ſafety on payne of death.</p>
+            </div>
+            <div n="50" type="part">
+               <head>L.</head>
+               <p>If any ſhal depart out of the order, or ranke wherin he is placed, vnleſſe it bee on ne<g ref="char:EOLhyphen"/>ceſſary occaſions, and that he hath therewith acquainted his Officer, hee ſhalbee puniſhed with death.</p>
+            </div>
+            <div n="51" type="part">
+               <head>LI.</head>
+               <p>He that ſhall firſt beginne to flye in a battaile, or vpon an aſſault, may lawfully be ſlaine thereupon by any one: And if he eſcape, hee ſhalbe declared a villaine, and receive puniſh<g ref="char:EOLhyphen"/>ment of death without mercy.</p>
+            </div>
+            <div n="52" type="part">
+               <head>LII.</head>
+               <p>None that is appointed for the defenſe of any breach, trence, or ſkonce, bee it Captaine or Souldiour, ſhall willingly forſake the ſame, or through any falſe, or coulored occaſions or excuſes abſent himſelfe from thence, without ſufficient order, or warrant allowed by Councel of warre, on payne of death.</p>
+            </div>
+            <div n="53" type="part">
+               <head>LIII.</head>
+               <p>None ſhal ſurrender, or deliver to the enemy any place, which the keeping thereof is committed vnto him, on payne of death.</p>
+            </div>
+            <div n="54" type="part">
+               <head>LIV.</head>
+               <p>Likewiſe none ſhal runne from his quarter in a beſieged place, call for compoſition, or ſpeake thereof, be vnwilling to fight, labour, or defend their quarter, or make others vn<g ref="char:EOLhyphen"/>willing therevnto, or doe ought els in ſuch a place, whereby the defenſe thereof may be hindered, on payne of death without any mercy.</p>
+            </div>
+            <div n="55" type="part">
+               <head>LV.</head>
+               <p>If any man runne away to the enemy, or in his flight bee taken from the enemy, hee ſhal bee puniſhed with death.</p>
+            </div>
+            <div n="56" type="part">
+               <head>LVI.</head>
+               <p>No Captaines ſhal ſeduce, or intice away each others Souldiours on payne of death.</p>
+            </div>
+            <div n="57" type="part">
+               <head>LVII.</head>
+               <p>Whoſoever ſhal by word, or deede buſy himſelfe with the Sergeant Maiour, doing his office, bee hee Captaine, or Souldiour, he ſhal without mercy be puniſhed with death: As he alſo ſhal, who wil not content himſelfe with that quarter, or lodging, whereto he ſhalbe appointed by his Quartermaſter, or Furrier, or he that will diſturbe another man in his place.</p>
+            </div>
+            <div n="58" type="part">
+               <head>LVIII.</head>
+               <p>If any ſouldiour having the watch, ſhal come to his Colours not fully armed, to march
+<pb n="6" facs="tcp:137176:6"/> with the reſt vnto the watch, he shall for the firſt time, bee kept three dayes at bread and water: the ſecond diſarmed and banished for three Moneths out of the company, and the third time ſuffer death.</p>
+            </div>
+            <div n="59" type="part">
+               <head>LIX.</head>
+               <p>Every one, of what condition ſoever he bee, shal forthwith, or before the evening bring before him that commaunds in the quarter, all ſuch priſoners, as shalbe taken of the ene<g ref="char:EOLhyphen"/>my, on payne of forfeicting the ſaid priſoners, and to bee punished beſides with death.</p>
+            </div>
+            <div n="60" type="part">
+               <head>LX.</head>
+               <p>And if any ſhal take priſoner a Generall, Commaunder, or other man of accompt of the enemy, he is foorthwith to preſent, or cauſe to bee preſented the ſaid priſoner vnto the States generall, or Councell of State, and with-all to deliver him over, as alſo whatſoever other priſoners they wil take to themſelves, receiving therefore a reaſonable reward ac<g ref="char:EOLhyphen"/>cording to the quality and ability of the priſoner: provided that it exceeds not the ſomme of 5000. gilders: And ſo the ſaid priſoner ſhalbe at the diſpoſing of the aforeſaid States, and he that tooke him, to pretend no further intereſt in that behalfe.</p>
+            </div>
+            <div n="61" type="part">
+               <head>LXI.</head>
+               <p>Likewiſe none ſhal kil any priſoner, or ſet his ranſome, or after the payment of the ſaid ranſome, ſuffer him to depart without leave of the General, or him that commaunds in the quarter, on paine of being difarmed, and baniſhed out of theſe Countreys.</p>
+            </div>
+            <div n="62" type="part">
+               <head>LXII.</head>
+               <p>And if any priſoners bee found, walking along the Campe or place of garniſon, without leave from the General, or him that commaundes there, he to whom the priſoner belon<g ref="char:EOLhyphen"/>geth, ſhall forfeict him to thoſe, who ſhall firſt lay handes on the priſoner.</p>
+            </div>
+            <div n="63" type="part">
+               <head>LXIII.</head>
+               <p>Concerning lawfull prizes, whoſoeuer brings in the ſame, ſhall acquaint therewith the Generall, or him that commaundes in the quarter, within three houres after their returne, to the end they may bee accordingly regiſtred, on payne of forfeicting the ſame, and to be beſides puniſhed on the bodie.</p>
+            </div>
+            <div n="64" type="part">
+               <head>LXIIII.</head>
+               <p>Woſoever ſhal haue gotten any thing vpon the enemy, and giveth not notice thereof as aforeſaid, that it may be recorded, &amp; after ſolde, in the Campe, or place of garniſon, but ſhall ſell, or cauſe it to bee ſold in the places or townes neare therevnto, ſhall without any mercy bee puniſhed with death, to th'end that better order be held in all, &amp; no man wron<g ref="char:EOLhyphen"/>ged in his right.</p>
+            </div>
+            <div n="65" type="part">
+               <head>LXV.</head>
+               <p>When a ſouldiour ſhall have done any offenſe or fault, his Captaine ſhalbe bound (on payne of three moneths ſupenſion from his charge) to deliver the ſaid ſouldiour into the Generals handes, or his that commaunds in the quarter, who with the Captaines, Lieute<g ref="char:EOLhyphen"/>nants, and Enſignes then preſent, shall vpon th'information, which hee shall cauſe to be ta<g ref="char:EOLhyphen"/>ken thereof, judge according to theſe orders and lawes.</p>
+            </div>
+            <div n="66" type="part">
+               <head>LXVI.</head>
+               <p>He that is drunke on his watch-day, ſhalbe caſſiered, &amp; baniſhed out of the Company.</p>
+            </div>
+            <div n="67" type="part">
+               <head>LXVII.</head>
+               <p>Jtem if any one drinke himſelfe drunke, and in his drunkenneſſe commit anv il or ought forbidden, hee ſhal not thereby bee excuſed, but ſo much the more ſharpely puniſhed.</p>
+            </div>
+            <div n="68" type="part">
+               <head>LXVIII.</head>
+               <p>If any Cap. or ſouldiour ſhal refuſe the muſter, or review, hee shalbe caſſiered.</p>
+            </div>
+            <div n="69" type="part">
+               <head>LXIX.</head>
+               <p>None shal at the mvſter let himſelfe be entred by a changed, or other name, then his owne, nor shall paſſe muſter with a borrowed horſſe or armes: neither shall any on the muſterday lend the like, on payne of being diſarmed, and banished out of the Company.</p>
+            </div>
+            <div n="70" type="part">
+               <head>LXX.</head>
+               <p>None shall let himſelfe be entred, or muſter vnder two Companis, on payne of death.</p>
+            </div>
+            <div n="71" type="part">
+               <pb n="7" facs="tcp:137176:6"/>
+               <head>LXXI.</head>
+               <p>None shal diminish or pawne his armes, which are appointed him by his Captaine, on payne of being diſarmed, and banished for ſixe moneths out of the Company.</p>
+            </div>
+            <div n="72" type="part">
+               <head>LXXII.</head>
+               <p>None shal likewiſe take or pawne any ſouldiours armes, on payne of looſing double the worth of the pawne.</p>
+            </div>
+            <div n="73" type="part">
+               <head>LXXIII</head>
+               <p>None shal play away, or quite his atmes, but keepe the ſame alwayes cleane, and ſervi<g ref="char:EOLhyphen"/>ceable, on payne of being caſſiered out of the Company without paſport.</p>
+            </div>
+            <div n="74" type="part">
+               <head>LXXIV</head>
+               <p>None shal by couſenage get away his fellowes proviſions, victuals, or armes, on payne of being diſarmed, and banished for three moneths out of the Company, or otherwiſe shal ſuſtaine corporal punishment, according to the quality of the offenſe.</p>
+            </div>
+            <div n="75" type="part">
+               <head>LXXV</head>
+               <p>He that shal preſume to ſet vpon a Commiſſary of the muſters, or wrong him, either in word or deede, shalbe punished with death.</p>
+            </div>
+            <div n="76" type="part">
+               <head>LXXVI</head>
+               <p>Jf any Captaine give his ſouldiours leſſe, then the pay allowed him by the States, he shalbe diſgraded.</p>
+            </div>
+            <div n="77" type="part">
+               <head>LXXVII</head>
+               <p>If any ſouldiour proffer to drawe his weapon againſt his Chiefe, or Commaunder, he shalbe punished with death.</p>
+            </div>
+            <div n="78" type="part">
+               <head>LXXVIII</head>
+               <p>If the Provoſt or his Officers apprehend one or more ſouldiours, none (of what degree ſoever) shall oppoſe himſelfe thereagainſt, or reſkewe, or attempt to reſkewe the ſaid pri<g ref="char:EOLhyphen"/>ſoners, on payne of death.</p>
+            </div>
+            <div n="79" type="part">
+               <head>LXXIX</head>
+               <p>Furthermore, no Officer nor Gentleman of any Company of Horſe, or Foote, or any common ſouldiour shal victaile in any Campe, without the Generals ſpecial conſent, on payne of being diſarmed.</p>
+            </div>
+            <div n="80" type="part">
+               <head>LXXX</head>
+               <p>Likewiſe all Victualers, that victual in the Campe, shalbe ſubject to the aforeſaid arti<g ref="char:EOLhyphen"/>cles and the Councel of warre there being, on the penalty here in contayned, and ſhal not draw any wine or beere for any one in the evening, an houre after the Sunnes ſetting, or in the morning aſmuch before the ryſing thereof, on payne of forfeicting 3. gilders for every time they ſhalbe found to have done ſo: the ſaid forfeict to be converted, the one halfe to the Provoſts behoofe, and the other to the reliefe of the poore.</p>
+            </div>
+            <div n="81" type="part">
+               <head>LXXXI</head>
+               <p>All other abuſes and offenſes not ſpecified in theſe Orders, ſhalbe punished according to the ordinances, lawes, and cuſtomes of the warre.</p>
+            </div>
+            <div n="82" type="part">
+               <head>LXXXII</head>
+               <p>If any ſouldiours should not bee preſent at the proclayming of theſe orders &amp; lawes, they shal notwithſtanding be aſmuch bound to the obſervation of them, as the other who were preſent. But to the end none maye pretend ignorance, and every one have notice the<g ref="char:EOLhyphen"/>reof, the States Generall have given order, that the ſame shalbee every where published on the muſter-day, and charge the Commiſſaries to cauſe all the ſouldiours to ſweare accordingly thereunto.</p>
+               <p>THus done and decreed at Arnhem, after ſundry conferences had hereupon with the chiefeſt Commaunders of theſe Vnited Provinces. It being farther appointed, that theſe orders, and lawes shalbe published both in the Campe, and whereſoever els it shal<g ref="char:EOLhyphen"/>be meete and requiſite, &amp; that at every muſter the Commiſſaries shal reade, &amp; propound the ſame againe vnto the Companies The 13. of Auguſt. 1590,</p>
+               <closer>
+                  <signed>By order of the Councel of State. <hi>Chr. Huygheus.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="proclamation">
+            <pb n="8" facs="tcp:137176:7"/>
+            <head>His Ex<hi rend="sup">cie</hi>. Commandeth herewith, all Perſons of this preſent Armie, of what Condition, or qualitie ſoever they bee, to obſerve &amp; keepe theſe poincts following, vpon the penalties therein contained.</head>
+            <div n="1" type="point">
+               <head>I.</head>
+               <p>THat noe man in marching ſhall forſake his Collours or Cornet, vpon paine of death.</p>
+            </div>
+            <div n="2" type="point">
+               <head>II</head>
+               <p>That noe man in marching, or quartring ſhall endammage the Jnhabitants of this Land, or thoſe which ſit vnder Safe-gard, or are Newtrall vpon payne of death.</p>
+            </div>
+            <div n="3" type="point">
+               <head>III</head>
+               <p>That noe man ſhall breake downe any churches, or Howſes, Hewe downe any fruict-trees, or ſteale any Bells, Jron worke, matterialls, or Cattle, vpon payne of death.</p>
+            </div>
+            <div n="4" type="point">
+               <head>IV</head>
+               <p>That noe man without the conſent of his Commandour, ſhall goe further then a Canon ſhott in circumference without the Armie, or lie out of it, vpon payne of a ſtrappado, and wronging any man ſhalbe hanged without mercie.</p>
+            </div>
+            <div n="5" type="point">
+               <head>V</head>
+               <p>That noe man ſhal fight within the quarter, or drawne his ſword, or make any great noiſe by night, vpon payne of death.</p>
+            </div>
+            <div n="6" type="point">
+               <head>VI</head>
+               <p>That noe man comming to the Armie with victuals, or Sutlers, either within or without the Armie, ſhal be made boote off, or robt vpon paine of death.</p>
+            </div>
+            <div n="7" type="point">
+               <head>VII</head>
+               <p>That noe man ſhall ſell any boote, or goods in the Armie, without beating the Drumme by the conſent of the Preſident of the high-Court of Juſtice, and the foreknowlege of the Provoſt Marſhall Generall, vpon forfeyture of looſing the ſaid boote or goods, the one halfe to be given to the poore, and the other halfe to the Provoſt Marſhall Generall.</p>
+            </div>
+            <div n="8" type="point">
+               <head>VIII</head>
+               <p>That noe man ſhall ſell likewiſe any goods without beating the Drumme, and the fore<g ref="char:EOLhyphen"/>knowledge of the Provoſt Marſhall Generall, vpon forfeyture of them, and to paye ſixe gilders beſides.</p>
+            </div>
+            <div n="9" type="point">
+               <head>IX</head>
+               <p>That all Chiefs, Captaines of Horſe &amp; foote, their Souldiers vnder them, having Com<g ref="char:EOLhyphen"/>mitted, or being accuſed of any of theſe aforeſeid offences, they ſhal helpe to put them into the hands of the Marſhall, or elſe they ſhalbe anſwerable for them, in caſe they refuſe, or hinder the ſame.</p>
+            </div>
+            <div n="10" type="point">
+               <head>X</head>
+               <p>And all Shippers and Saylers being a Land, ſhall as well be lyable to theſe Articles, as all others perſons.</p>
+            </div>
+            <div n="11" type="point">
+               <head>XI</head>
+               <p>That noe man ſhal doe his eaſement within the Armie, but in the places appointed for that vſe, upon forfeiture of his vpermoſt garmant.</p>
+            </div>
+            <div n="12" type="point">
+               <head>XII</head>
+               <p>That noe man ſhall arreſt any man in the Armie, or ſue him for any old actions, or debts made without the Armie.</p>
+            </div>
+            <div n="13" type="point">
+               <head>XIII</head>
+               <p>That noe man ſhall oppoſe himſelfe againſt the Provoſt Marshall Generall or his men, shall howte after them, or miſuſe them in word, or in deede, vpon payne of being hang'd without mercie.</p>
+            </div>
+            <div n="14" type="point">
+               <head>XIV</head>
+               <p>That all priſonners of the Ennemy shallbe delivered into the cuſtodie of the Provoſt Marshall Generall, As likewiſe all priſonners of the Armie, which are liable to bodily pu<g ref="char:EOLhyphen"/>nishment, with a pertinent information of their offences, or accuſations, as others.</p>
+            </div>
+            <div n="15" type="point">
+               <head>XV</head>
+               <p>That all particular Marshals of Regiments, Admiralitie, Artillerie, Guards, or others shall bee vnder the Provoſt Marshall Generall.</p>
+            </div>
+            <div n="16" type="point">
+               <head>XVI</head>
+               <p>That noe man shall ſett any price vpon any victuals within, or without the Armie, with<g ref="char:EOLhyphen"/>out the conſent of the Provoſt Marshal General, and according to the rate, which is given him vpon paine of Arbitrall punishment.</p>
+            </div>
+            <div n="17" type="point">
+               <head>XVII</head>
+               <p>That noe man shal ſuttle in the Armie, before he hath given vp his name to the Gene<g ref="char:EOLhyphen"/>ral of the victuals and the Provoſt Marshal General, vpon the forfeyture of ſixe gilders.</p>
+            </div>
+            <div n="18" type="point">
+               <head>XVIII</head>
+               <p>That al Sutlers comming into the Armie shal give vp a note of their wares to the Ge<g ref="char:EOLhyphen"/>nerall
+<pb n="9" facs="tcp:137176:7"/> of the victualls &amp; the Provoſt Marſhal General, vpon the forfeiture of ſixe gilders.</p>
+            </div>
+            <div n="18" type="point">
+               <head>XVIII</head>
+               <p>That al Sutlars comming into the Armie ſhal give vp a note of their wares to the Ge<g ref="char:EOLhyphen"/>nerall of the victuaills, or his Commis, neither maye ſuttle without his order, or com<g ref="char:EOLhyphen"/>miſſion, vpon the like penaltie</p>
+            </div>
+            <div n="19" type="point">
+               <head>XIX</head>
+               <p>That noe Sutlars ſhall build any Hutts, then in ſuch places as is appointed them by the Marſhall vpon the like forfeiture.</p>
+            </div>
+            <div n="20" type="point">
+               <head>XX</head>
+               <p>That noe man ſhal call for, or receive any Hutt-money, but with the conſent of the Pro<g ref="char:EOLhyphen"/>voſt Marſhall Generall vpon like penaltie to forfeyt ſo much every time.</p>
+            </div>
+            <div n="21" type="point">
+               <head>XXI</head>
+               <p>That al Souldiers or Sutlaers killing Cattle or Beaſts, ſhal bring the fylth and paunches thereof without the Armie, and burie yt there vpon like penaltie.</p>
+            </div>
+            <div n="22" type="point">
+               <head>XXII</head>
+               <p>That noe man ſhal ſell away the right of kild Beaſts belonging to the Marſhal, vpon pe<g ref="char:EOLhyphen"/>naltie of daying double for yt.</p>
+            </div>
+            <div n="23" type="point">
+               <head>XXIII</head>
+               <p>That noe Sutlaers ſhal engroſſe, or buy vp any commodties being yet without the Ar<g ref="char:EOLhyphen"/>mie, before they be brought to the place appointed, where they ſhalbe ſould, or ſhall not ſel the<g ref="char:cmbAbbrStroke">̄</g> before they be priſed, vpon forfeiture, that the one halfe of the ſame wares bought or ſould, ſhalbe given to the poore, and the Marſhall aforeſaid.</p>
+            </div>
+            <div n="24" type="point">
+               <head>XXIIII</head>
+               <p>That noe Sutlaers Shippers, or other perſons ſhal buy or take in pawne any Iron, Braſſe Bell-mettall, Bullets, Armes, Powder, Emptie ammunition Barrells, or any prohibited goods, vpon forfeyture of them, and beſides to be publickly whipped.</p>
+            </div>
+            <div n="25" type="point">
+               <head>XXV.</head>
+               <p>That noe Sutlars ſhal tapp, meaſure or weigh either with liquid, or drye meaſures, ell or weight, but with ſuch as ſhalbe given them by the Provoſt Marſhall Generall, vpon the loſſe of ſixe gilders, and vſing any falſe meaſure at all, ſhall forfeyt all their goods, the one halfe to be given to the benefite of the poore, the other halfe to the Regiment of Iuſtice, and beſids to be puniſhed arbitrally.</p>
+            </div>
+            <div n="26" type="point">
+               <head>XXVI.</head>
+               <p>That noe Sutlars shall tap any Beare, or Wine, hold any drinking, or shotts in the mor<g ref="char:EOLhyphen"/>ning before the Sunne riſing, or in the Evening an howre after Sunne ſetting vpon penaltie of looſing three gilders every time.</p>
+            </div>
+            <div n="27" type="point">
+               <head>XXVII.</head>
+               <p>That noe man either waggonmen, Overſeers, or Conductours of Drawing-Horſes, Sut<g ref="char:EOLhyphen"/>lars, or other perſons having horſes in the Armie, shal put, or lett their horſes feede, or run in Sowne grounds, with what ſeed ſoever the ſame be ſowne, vpon penaltie of paying a daller for every horſe, ſo often as he shalbe found to doe the contrarie.</p>
+            </div>
+            <div n="28" type="point">
+               <head>XXVIII</head>
+               <p>And his Ex<hi rend="sup">cie</hi>, Commaundeth the Porvoſt Marshall Generall by theſe, to have a good and ſtrickt care for due obſervation of all theſe points above ſaid, &amp; to execute the above<g ref="char:EOLhyphen"/>ſaid penalties, and forfeitures in conformitie of the ſame, his Ex<hi rend="sup">cie</hi>, intending hereby, that hens-forward ordinarily in his Armie, they thalbe kept, and ſtricktly obſerved.</p>
+               <p>Thus ſtatued by his Ex<hi rend="sup">cie</hi> in the Haghe, the 7<hi rend="sup">th</hi> of Maye 1631. And was ſigned, <hi>F. Henry de Naſſau,</hi> vnderneath ſtood, By order of his Ex<hi rend="sup">cie,</hi> and Counterſigned, <hi>C. Huyghens,</hi> ha<g ref="char:EOLhyphen"/>ving his Ex<hi rend="sup">cies</hi> ſeale of armes vpon yt in Red waxe, covered with a ſquare of white paper.</p>
+            </div>
+         </div>
+         <div type="treatise">
+            <pb n="10" facs="tcp:137176:8"/>
+            <head>THE PLACCATE FOR DVELS.</head>
+            <p>VVHereas by daylie experience it is found, that manie as well Officers, as private Souldiers in the Service of this State, vnder the command and charge of his Ex<g ref="char:EOLhyphen"/>cell. doe challenge into the field, and cauſe others to bee challenged by their ſeconds, vn<g ref="char:EOLhyphen"/>der pretext of righting, or repairing their honours.</p>
+            <p n="1">1. His Excell. deſiring to prevent ſuch miſchiefs and inconveniencies, as daylie doe a<g ref="char:EOLhyphen"/>riſe out of the ſaid licentiouſneſſe of Duells, as far as is poſſible for him to doe, hath found fitt and neceſſarie, to command and ordaine, as by theſe he doth ordaine and command, that all, as well Voluntiers as Officers and private Souldiers, of what qualitie ſoever, being vnder his Charge in the Service of this State, shall from henceforth live civilie, quietlie &amp; peaceablie together without wronging, injuring, or offending one another, vpon paine of exemplarie puniſhment.</p>
+            <p n="2">2. If there ſhal happen any difference, or offence, which doth ſeeme to the partie offen<g ref="char:EOLhyphen"/>ded, that no ſufficient reparation can be made, that may ſatisfie him in his honour, other<g ref="char:EOLhyphen"/>wiſe then by the ſword: Jn ſuch a caſe, if he bee a Voluntier, or an Officer of quality, he ſhall make his complaint to his Excell. If a private Souldier, he is to adreſſe himſelfe to his Colonel, or other Officers that have the comma<g ref="char:cmbAbbrStroke">̄</g>d of him, who with the advice of other Captaines, and Officers of the ſame Nation or Regiment, that ſhal be found preſent, ſhall decide the difference, or accommodate it, if it can be done. But if it bee of that nature to require a combat, they ſhall acquaint His Excell. with it, to reſolve the beſt way. He ſhall thinke fitt for the honours of both parties.</p>
+            <p n="3">3. The partie that ſhall have offended the other, ſhall bee bound to appeare before His Excell. or ſuch as he ſhall pleaſe to ordaine for the hearing of the difference, which if he falle, hee ſhall bee called in within three dayes proclamation, &amp; not appearing, be baniſhed the Land, as diſobedient.</p>
+            <p n="4">4. He that ſhall have demanded the combatt, being judged to bee vnreceaveable, ha<g ref="char:EOLhyphen"/>ving taken an offence vpon to ſlight an occaſion, ſhall bee ſent backe with ſhame.</p>
+            <p n="5">5. The offendor, that ſhall have done ſuch an injurie to another, as ſhall bee found to offend him in his honour, if he bee an Officer, ſhal bee ſuſpended from his charges, &amp; com<g ref="char:EOLhyphen"/>mandes for the time of two yeares, &amp; obliged to give ſuch ſatisfaction to the partie offen<g ref="char:EOLhyphen"/>ded, as ſhal bee thought fitt and reaſonable. If the offender bee but a private Souldier, be<g ref="char:EOLhyphen"/>ſides ſatisfaction he ſhall be impriſoned three Moneths at bread and water.</p>
+            <p n="6">6. Whoſoever ſhal challenge into the feild, in the behalfe of another, or ſhal deliver the challenge, or anie errand by word of mouth, offenſive &amp; prejudiciall to the honor of ano<g ref="char:EOLhyphen"/>ther, or have knowledg of it, without giving notice of it where it apperteineth, ſhall bee caſſered from all his charges and commaunds, and beſides baniſhed the Land.</p>
+            <p n="7">7. He that ſhall find himſelfe wronged or offended, and carrie his owne challange (not having demanded leave for the combatt, as heretofore hath beene commanded) ſhall be caſſered and baniſhed the Land. And if he that ſhall be challenged, doth his beſt to anſwere the challenge, though he come not into the feild, he ſhall be punished as if he were the challenger. And if parties come to fight, they shall both be caſſeered and banished, beſi<g ref="char:EOLhyphen"/>des ſuch further exemplarie punishment, as shall bee thought fitt.</p>
+            <p n="8">8. Thoſe that ſhall have aſſiſted the two parties offending againſt theſe orders, if they ſhall have drawen their ſwords, ſhall bee as well puniſhed as the principall, according as is before declared. Jf they bee but ſpectators onelie, being gone thither for that purpoſe, they shall bee caſſered, and looſe their places; As likewiſe if it bee proved that anie com<g ref="char:EOLhyphen"/>ming to the place by chance, and getting knowledge of the quarrel, did not doe their beſt to hinder them that fight, they shall bee ſuſpended from their places for yeares, and as pri<g ref="char:EOLhyphen"/>vate Souldiers punished for an exemple to all others.</p>
+            <p n="9">9. And as for voluntiers, as long as they shall live in theſe Provinces, they shall bee bound to the obſervation and penalties of all the former articles, even as thoſe that are in actuall ſervice.</p>
+            <p>All with points, and articles His Excell. doth command to bee punctualie and ſtrictlie obſerved without anie contravention, excuſe, or hope of pardon whatſoever. Given at the Haghe the 3. day of Iuly. Anno 1637. And was ſigned <hi>F. Henry de Naſſou.</hi> Vnderneath was written. By Ordre of His Excell. <hi>C. Huyghens.</hi> Sealed with the privie Seale of his Excell. in redd waxe.</p>
+         </div>
+         <div type="order">
+            <pb n="11" facs="tcp:137176:8"/>
+            <head>ORDRE FOR THE PROVOST MARSHAL GENERALL.</head>
+            <p>HIs Highneſſe expreſly Commaundeth herewith, al particular Provoſt Marſhals, aſwel of the Horſe if there be any, of the Admiralitie, of the Engliſh, French, Dutches, Scots as of the Inlandiſh Regiments of Holland, Zealand, Frizeland, Vtrecht, &amp; other Provinces together of the Ordinance, victualls, Guards, &amp; all other Provoſts Marſhals of the Armie, to reſpect, and aſſiſt the Provoſt Marſhall Generall each in his quarter, to the ende, that the rule of Gouvernement maye be duely reſpected, and the execution of Iuſtice performed in a convenient ordre.</p>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>And to the intent, that no diſputes maye ariſe amonge them for profits, his Highneſſe commaundeth, and intendeth, that everye Provoſt Marſhall in their Regiments or quar<g ref="char:EOLhyphen"/>ters, ſhal take and receive the right, and the ſett-money of all Wijnes. Beeres, Meates, and victualls, the autient right, or ſett moneys which heretofore have bin payd, and to keepe for himſelfe the one halfe, and for the other halfe they muſt be anſwerable for to the Pro<g ref="char:EOLhyphen"/>voſt Marſhal Generall, in giving him, good and a ſinceere account therof, and in ſetting followe and cauſe to be obſerved the priſe appointed &amp; made by the Preſident of the Iu<g ref="char:EOLhyphen"/>ſtice, &amp; the Generall of the victualls, given them from the hands of the pro Marſ. General.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III</head>
+               <p>And if any Marſhall be vnwilling, to give an Account thereof, to the aforeſaid Provoſt Generall, his Highneſſe commandeth thoſe of the Councell of warre, to force the ſaid marſhall therevnto by Iuſtice, and to conſtraine him preſently, and without any delaye, to conforme himſelfe therevnto.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>Intending notwithſtanding, that the principaleſt Sutling-place being in that quarter, where the Provoſt Marſhall Generall shal be, shal ſtand vnder the Command of the ſame Provoſt Marshal Generall, without any mans contradiction.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>Concerning Hutt-money his Highneſſe intendeth, that the ſame shalbe received onely by the Provoſt Generall, or thoſe which he shal depute therevnto, Commanding all Sut<g ref="char:EOLhyphen"/>lars shop-keepers, and others trading in the Armie, aſwell thoſe which receive paye vn<g ref="char:EOLhyphen"/>der the Regiments, as others which have none of what Nation ſoever they bee, everye weeke to paye vnto the Provoſt Marshall Generall three ſtuyvers for Hutt-money, where of hee Provoſt every weeke shal give vp an account in the preſence of the Advocate Fiſcal of the Generality into the hands of his Highneſſe Fourryer, &amp; the two third parts thereof to be anſwerable for himſelfe for to be diſtributed to the neceſſitie of the ſicke and poore woundede ſouldiers, in charges of Juſtice, &amp; other ſuch like extraordinarie expences. His Highneſſe commanding expreſly hereby, aſwell the Generall, as the particular Quarter<g ref="char:EOLhyphen"/>maſters, alſo to all other particular Provoſts, not to meddle themſelves hereafter with the ſaid Hutt-money, or to take the ſame vnto them, but contrariewiſe to give all helpe, and aſſiſtance vnto the Provoſt Marshall General for the Receit of the aforeſaid Hutt-money, vpon payne of indignation and arbitrall punishment. Commaunding thoſe of the Coun<g ref="char:EOLhyphen"/>cell of warre to conſtraine the vnwilling Sutlars, shop keepers, and others by Iuſtice to the obſerving thereof, Commaunding likewiſe all Sutlars and Jn-keepers of the Armie, which receive noe paye vnder the Regiments, not to hutt themſelves after the ſame Regi<g ref="char:EOLhyphen"/>ments, but to ſettle themſelves in the General Sutling place vpon penaltie that their Huts shall be made priſe off hy the Provoſt Marshall Generall.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>And that the right of beere maye bee given with a better order. His Highneſſe willeth and commandeth herewith, that the Shippers and Sutlars, which shall come &amp; arrive with beere in the Army in conformitie of the former Acts, Ordinances &amp; Reſolutions bearing the 7<hi rend="sup">th</hi> of Auguſt 1610. the 26 of Auguſt, &amp; the 18. of November 1614. shalbe bound to paye two ſtuyvers, for every Tonne of Beere to the Provoſt Marshal General, or to whom he authoriſes, or at leaſt to put him in ſecuritie therfore, and the ſaid marshall shall be obli<g ref="char:EOLhyphen"/>ged to reſtore backe vnto them the two ſtuyvers for every Tonne of Beere, which they shall carrye back againe, if it be not ſpent in the Armie. And the Shippers, Sutlars, and Victuailers, shal demaund the two ſtivers againe, and cauſe them to paye them for every bought Tonne, which the Sutlars shalbe bound to make preſent reſtitution off.</p>
+               <pb facs="tcp:137176:9"/>
+               <p>And the particular Marshal shal demand againe there share, to wit, halfe a ſtiver from the Provoſt Marshal General, for the beere, which shalbe ſpent in everie of their quarters.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII</head>
+               <p>Likewiſe all Sutlars, or Shippers, which shal bring vp any wines vnto the Armie, as al<g ref="char:EOLhyphen"/>ſo al thoſe which shal carry into the Armie any Wines, or Beeres by Boates or Waggons, ſhalbe bound at their comming into the Armie to paye vnto the Provoſt Marshal Gene<g ref="char:EOLhyphen"/>rall the ſett-money therevpon, or to thoſe, which he shal depute thereunto in every quar<g ref="char:EOLhyphen"/>ter, or at the leaſt, to put in ſecuritie for the ſame: Jntending hereby that if they ſhal carrye any thereof back againe, that the Provoſt Marſhal General or his Authorized ſhal preſent<g ref="char:EOLhyphen"/>ly without any delaye reſtore back the money to them, which they have received for eve<g ref="char:EOLhyphen"/>rie parcell, which ſhalbe carryed back againe. And the Provoſt Marſhall Generall ſhalbe accountable to the particular Provoſt Marſhalls in whoſe quarter they were ſpent, for the one halfe of ſuch Beeres &amp; Wines, Wherewith they are to aske, or take nothing for their paines in ſetting or making the ſame.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII</head>
+               <p>His Highneſſe commanding all Shippers, Sutlars, as alſo the Provoſt Marſhal Generall, and all particular Marſhalls, to gouverne themſelves according to theſe Articles, for the avoyding of all further diſputes.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX</head>
+               <p>Ordayning moreover the Provoſt Marſhal General to take good heede for the preven<g ref="char:EOLhyphen"/>ting of all night-diſturbances or tumults; And at the beginning of the Armie, to cauſe to be publiſhed, and proclaimed theſe orders, and to give a coppie of them to all the Provoſt Marshalls, whom his Highneſſe expreſly commandeth hereby to governe themſelves in all things, and every ſpeciall point herein contayned.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X</head>
+               <p>Commandeth herewith beſides the Quartermaſters, aſwell Generall, as particular, not to trouble themſelves with the Articles of the Ordinance.</p>
+               <p>Thus ſtatuated by his Highneſſe in the Haghe the 1<hi rend="sup">th</hi>. of Iuly 1637. and was ſigned, <hi>F. Henry de Naſſou,</hi> vnderneath ſtood, By order of his Highneſſe <hi>C. Huyghens,</hi> having printed vpon it his Highneſſe ſeale in Red waxe, couvered over with a ſquare of white paper.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <p>FR. HENRY, BY THE GRACE OF GOD, Prince of Orange, Count of Naſſau Catzenelnbogen, Vianden, Dietz, Lingen, Moers, Bueren, Leerdam, &amp;c. Marquis ofter Vere &amp; Vliſſingen, Lord &amp; Baron of Breda, of the Cittie of Grave, Land of Kuyck, Dieſt, Grimbergen, Herſtal, Kranendonck, Warneſton, Arlay, Noſeroy, S. Vijt, Daeſbourg, Po<g ref="char:EOLhyphen"/>lanen, Wilmſtadt, Niervaert, Yſſelſteyn, S. Martenſdijck, Geertruydenberg, Chaſteau Re<g ref="char:EOLhyphen"/>gnard, the high and lower Swaluwe, Naeltwijck &amp;c. Vicount Hereditarie of Antwerpe &amp; Beſançon, Marſhal Hereditarie of Holland. Gouvernour of Gueldre, Holland, Zeeland, Weſt-Frieſland, Zutphen, Vtrecht and Over-Yſſel, Captaine General, and Admiral of the Vnited Provinces of the lowe Countries. Vnto all who theſe preſents shal ſee or heare. Whereas by dayly experience it is found that many Officers of Companies, both of Horſe &amp; Foot, in the ſervice of this State, doe meddle with tapping of Beere, wine or Burndwine Selling of Tobacco, and the like: Being a thing evidently <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ending to the great prejudice and diſreputation of Armes, as alſo contrarie to all good militarie order and diſcipline, &amp; from which many diſorders and inconveniences doe happen and ariſe among ſouldiers.</p>
+            <p>We therefore let you know, That being intended to amend and prevent from henceforth, as much as poſſible may be, the diſorders aforeſaid, we have prohibited and forbidden like as we prohibit and forbidd expreſly by theſe preſents, that no Officers of Companies, comprehending alſo the Corporals and Clarkes of Companies, of what qualities ſoeuer they be, either of Horſe of Foote, nor their Wifes, or any other perſon of their families, after the time of a moneth next following the date of theſe, ſhal vndertake, to meddle with tapping of Beere, Wine or Burndwine, Selling of Tobacco, &amp; the like, vpon paine of the loſſe of their Offices, and that the Captaine who have notice of it, ſhall be found to permit it in his Companie ſhall forfet every time to wit the Captaine of Horſe the ſumme of foureſcore gilders at twentie ſtivers a peece, and the Captaine of Foote, the ſumme of fiftie gilders or the like value.</p>
+            <p>Wherefore, we do ordaine and command the Fiſcal of the Generalitie, and all other particular Auditors of the Gar<g ref="char:EOLhyphen"/>riſons, to proceed againſt the offenders, according to the loſſes, puniſhments, and fines aforeſaid, without any kind of favour. And to the end that no body may have occaſion to pretend any ignorance of it hereof We doe allſo charge and comman all Coronels, ſpeedily to acquaint all the Captaines of their Regiments with the contents of theſe. Item all Governours and Commanders of the Garriſons, to cauſe this our Placcate of Interdiction preſently to be proclamed and publiſhed by ſound of Trumpet and Drumme, at ſuch times and places as are uſed for the like proclamations. Given at the Hage, this 1. of Iuly. 1637.</p>
+            <closer>
+               <signed>
+                  <hi>F. Henry de Naſſau.</hi>
+                  <lb/> By order of his Higneſſe.<lb/> 
+                  <hi>C. Huygens.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="articles">
+            <pb n="13" facs="tcp:137176:9"/>
+            <head>A Copie, Of the Articles of Quarter, for the Ranſomes of Officers, and Soul<g ref="char:EOLhyphen"/>diers agreed, and concluded on betweene the King of Spaines ſide, and the States of the vnited Provinces, Tranſla<g ref="char:EOLhyphen"/>ted out of Dutch in to Engliſh.</head>
+            <opener>
+               <salute>Don Franciſco de Mendoza, Duke of Veraguas, Admirall of the Kingdomes, and Crowne of Arragon, &amp; of the West-Indie, &amp; of the Ocean ſea, Marqueſſe of Guadelesta, and of Iamayca, Conte de Montalegre, and of Adelandtado in the Indie, Lord of Valey, of Setta Trandel, &amp; Contrides, and of the Barronies of Gorga Bechi, Ribaroſa, Andara, &amp; Venidolech, Commander, of Valdepenas, of the order of Calatrave, Stuard, vnto his Catholicke Maieste, and one of his Council of State, and of the warre, High stu<g ref="char:EOLhyphen"/>ard to the illustrious Albert Archduke of Austria, Captanie Generall of the light hor<g ref="char:EOLhyphen"/>ſe in the Netherlands.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing found fitting for certaine good reſpects, to make a more per<g ref="char:EOLhyphen"/>ticular, and a more ſpeciall declaration, then hath bene heretofore of the Quarter, which ought to be held, and obſerved betweene the melitie, and thoſe of Holland &amp; their aſſociates on the other ſide: becauſe there happens duylie diſputes, touching the ranſoming of ſome perticular men, &amp; the exceſſive charges, which they are att about their dyet, &amp; other things, &amp; which is exhauſted from the priſon<g ref="char:EOLhyphen"/>ners, who in regard of theſe exceſſive expe<g ref="char:cmbAbbrStroke">̄</g>s, are not ſometimes able to pay, &amp; ſatisfie them, &amp; therefore are forced to ſtay longer in priſon, then they ſhould doe to their great hurt, and the dammage of thoſe which have taken them priſonners. To the intent the<g ref="char:cmbAbbrStroke">̄</g>; that eue<g ref="char:EOLhyphen"/>ry man maye preciſely know, for what ranſome he maye be releaſed out of priſon, &amp; that noe more exceſſiue charges maye be preſſed out of him, being not able to paye it: <hi>It is ſo,</hi> that wee have ſpecified by writting the taxation; which euerie ma<g ref="char:cmbAbbrStroke">̄</g> is bound to paye, and which noe man ſhal violate, or infringe in this forme &amp; manner following vidz.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>gilders</hi>
+                     </cell>
+                     <cell>
+                        <hi>A refor<g ref="char:EOLhyphen"/>mado.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Captaine of a troupe of horſe in Eſſe.</cell>
+                     <cell>1000.</cell>
+                     <cell>300. gs,</cell>
+                  </row>
+                  <row>
+                     <cell>A Lieutenant of a troupe of Horſſe in Eſſe</cell>
+                     <cell>200.</cell>
+                     <cell>75.</cell>
+                  </row>
+                  <row>
+                     <cell>A Cornet in Eſſe</cell>
+                     <cell>150.</cell>
+                     <cell>50.</cell>
+                  </row>
+                  <row>
+                     <cell>A Lieutenant Coronell of foote in Eſſe</cell>
+                     <cell>70.0</cell>
+                     <cell>200.</cell>
+                  </row>
+                  <row>
+                     <cell>A Sariant Maiour of a Regiment of foote, being, or having bene a Captaine.</cell>
+                     <cell>700.</cell>
+                     <cell>gs.</cell>
+                  </row>
+                  <row>
+                     <cell>And being noe Captaine</cell>
+                     <cell>150.</cell>
+                     <cell>50.</cell>
+                  </row>
+                  <row>
+                     <cell>A Captaine of Foote in Eſſe</cell>
+                     <cell>600.</cell>
+                     <cell>50.</cell>
+                  </row>
+                  <row>
+                     <cell>A Lieutenant to a Sariant Maiour a foote</cell>
+                     <cell>75.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Sariant Maiour of a particular place</cell>
+                     <cell>100.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Lieutenant of foote</cell>
+                     <cell>60</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>An Alpherus, or an Enſigne</cell>
+                     <cell>60</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">All Sariants, clarkes of Companie:, and other inferiour Officers ſhalbe releaſed for their months paye.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Likewiſe al Souldiers ſerving, aſwel on horſe, as on foote ſhalbe releaſed for a months pay as hath bin accuſtomed in former times.</cell>
+                  </row>
+                  <row>
+                     <cell>A Quartermaſter Generall for</cell>
+                     <cell cols="2">400. gs.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The particular Quartermaſters, aſwel of Horſe, as of foote Regiments, a Captaine of the watch, a Captaine of the Guides, and all thoſe, which ſerve vnder the Quartermaſter Generall, with the Officers above ſpecified, al of them ſhalbe releaſed for a months pay.</cell>
+                  </row>
+                  <pb n="14" facs="tcp:137176:10"/>
+                  <row>
+                     <cell>A Commiſſarie of the Muſters</cell>
+                     <cell cols="2">300 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Officers and Commiſſes of the <hi>Veador, Contador, Pagador,</hi> belonging, to the Treaſurie of Warre each of them shalbe ranſomed for</cell>
+                     <cell cols="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For thoſe of the Train belonging to the ordinance.</hi>
+                     </cell>
+                     <cell cols="2">gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Lieutenant of the ordinance</cell>
+                     <cell cols="2">600</cell>
+                  </row>
+                  <row>
+                     <cell>A Gentlemen of the ordinance and maſter Cannonier</cell>
+                     <cell cols="2">60</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Contadors, Commiſſes, Controullers</hi> and <hi>Pagadors</hi> of the ordinance, or amunition each</cell>
+                     <cell cols="2">300</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Receivers</hi> of the ordinance each</cell>
+                     <cell cols="2">300</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Waggenmaſter Generall</hi>
+                     </cell>
+                     <cell cols="2">600</cell>
+                  </row>
+                  <row>
+                     <cell>His Lieu<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enant, and other Commiſſes of the waggons each</cell>
+                     <cell cols="2">60 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The chiefe Commiſſarie of the Canon horſſes</cell>
+                     <cell cols="2">300 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>All other Commiſſes, or particular Commiſes of the Canon horſes each</cell>
+                     <cell cols="2">60 gs</cell>
+                  </row>
+                  <row>
+                     <cell>The Conductors of the Ordinance, Amunition, Waggons, and Canon chorſes, each in his traine</cell>
+                     <cell cols="2">15 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>Each Canounier</cell>
+                     <cell cols="2">15 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Maſters of the fire-worckes each</cell>
+                     <cell cols="2">70</cell>
+                  </row>
+                  <row>
+                     <cell>Each of their Conductours</cell>
+                     <cell cols="2">20</cell>
+                  </row>
+                  <row>
+                     <cell>The Captaines of the pyonniers each</cell>
+                     <cell cols="2">100</cell>
+                  </row>
+                  <row>
+                     <cell>Each Pyonnier</cell>
+                     <cell cols="2">10</cell>
+                  </row>
+                  <row>
+                     <cell>The ſaylours, which ſerve about the ordinance: aſwell in the one, as in the other army, or other perticular workmen, shalbe releaſed each for 15. gs. and the Captaine of theſe ſay<g ref="char:EOLhyphen"/>lours each for</cell>
+                     <cell cols="2">300 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Bridg-maſters or Captaines of the punts</cell>
+                     <cell cols="2">100</cell>
+                  </row>
+                  <row>
+                     <cell>Their Lieutenants, each 30 gs, a peece, and thoſe which have the overſight of the bridge or punts</cell>
+                     <cell cols="2">12 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Inginiers and Controulers of the workes, each</cell>
+                     <cell cols="2">150 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Commiſſes, Conductours, the officers, and takers on of workes each</cell>
+                     <cell cols="2">30 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Captaine of the miners</cell>
+                     <cell cols="2">60 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>And each miner</cell>
+                     <cell cols="2">15</cell>
+                  </row>
+                  <row>
+                     <cell>The Captaine of the Carpenters</cell>
+                     <cell cols="2">60</cell>
+                  </row>
+                  <row>
+                     <cell>And euery carpenter vnder him each</cell>
+                     <cell cols="2">20</cell>
+                  </row>
+                  <row>
+                     <cell>The Maſter Farrier</cell>
+                     <cell cols="2">60</cell>
+                  </row>
+                  <row>
+                     <cell>And euery ſmith, or workeman vnder him</cell>
+                     <cell cols="2">12 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>The Waggon-men, or thoſe that repaires the broken Waggons of the traine of the ordi<g ref="char:EOLhyphen"/>nance, victuals, or any of the army, and the drivers of canon horſes each</cell>
+                     <cell cols="2">10 gs.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The Auditor, the Quartermaſter, the Phyſician, the Apothecary, the Chirurgian, the Pro<g ref="char:EOLhyphen"/>voſt of the Ordinance, each is to be ranſomed for two months entertaynment, and all and euery one that is vnder them each for a months pay.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Traine of Victualls.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The chiefe Commis, or the Receiuer of the victuals</cell>
+                     <cell cols="2">600 gs.</cell>
+                  </row>
+                  <row>
+                     <cell>Each Commiſſe ſerving vnder him</cell>
+                     <cell cols="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>The Commiſſes, Staplers, or <hi>Tenidores</hi> of the <hi>Baſtimientos</hi> each</cell>
+                     <cell cols="2">300</cell>
+                  </row>
+                  <row>
+                     <cell>The Controulers, or Commiſſes of the Victuals</cell>
+                     <cell cols="2">300</cell>
+                  </row>
+                  <row>
+                     <cell>The Commiſſes of the waggons, of the victuals each</cell>
+                     <cell cols="2">60</cell>
+                  </row>
+                  <row>
+                     <cell>And thoſe which ſerve vnder them, and the Conductours each</cell>
+                     <cell cols="2">15</cell>
+                  </row>
+                  <row>
+                     <cell>All officer belonging to the Geſthouſe shal be releaſed for a months pay.</cell>
+                     <cell cols="2"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And if there should happen any diſpute, touching the quality, or pay of any here above mentioned; he shalbe condemned by the declaration, which he shall give over in writ<g ref="char:EOLhyphen"/>ting vpon his honour, which shalbe credited by him that Gouvernes, Commaunds the Ar<g ref="char:EOLhyphen"/>mie, Province, or Towne on the priſoners ſide, without producing any further teſtimonie.</p>
+            <p>None shall detaine any priſonners againſt this Quarter vpon any colour, or pretext what ſoeuer, aſwell on the one ſide, as on an the other; but aſſoone as the money of any priſoner is
+<pb n="15" facs="tcp:137176:10"/> proffered to pay his ranſome, according to the taxatio<g ref="char:cmbAbbrStroke">̄</g> aboue ſpecified, and his dyet money for meate &amp; drincke, paying alſo the Provoſt his fees, according to the liſt made, and agreed vpon, bearing the date hereof, together with the declaratio<g ref="char:cmbAbbrStroke">̄</g> of his qualitie, they shal ſet him at libertie within 48. howers after it, without any conſideration of his fellow ſouldiers, which were taken priſonners with him, or whether others pay their ranſomes or noe vpon penaltie, that thoſe that keepes them any longer, shalbe bound to pay all the charges which afterward they shalbe att for the time of their detaynment, &amp; if any comes to queſt on their releaſement; they muſt doe it vpon their owne charges, and if they should be ouerthrowne in their ſuite, the proceſſe aſwell on the one ſide; as on the other shalbe determined within 14. daies, after the firſt inſinuation is made vpon the penalty aboue ſaid.</p>
+            <p>Neither shall they detaine, either on the one ſide, or on the other any Trumpetter, or Drummer coming for the priſoners, vnder any coulour whatſoeuer of thoſe that detaines them.</p>
+            <p>And to the end there maye bee a certaine rule for their Dyet, and the Provoſt marſhalls ſees: the liſt here vpon agreed, and concluded on, bearing the date hereof, shall be ſtricktly kept &amp; obſerved, aſwel in garniſon as in the armie, and (as is ſaid) shalbe coppied out both in French, &amp; in Dutch, which shalbe ſent by the <hi>chiefs</hi> vnto euery garniſon, with expreſſe com<g ref="char:EOLhyphen"/>maund to followhit, and not to tranſgreſſe any part thereof, vnder what prete<g ref="char:cmbAbbrStroke">̄</g>ce ſoever vpon the penalty therin contayned. The <hi>chieftaines</hi> on both ſides, promiſſingh to give ſatisfaction for that which ſhalbe broken on their ſide to the contrarie.</p>
+            <p>And to take away all occaſions of difficultie againſt the ſaid liſt. It shalbe commaunded euery where, and to all perſons, which are priſonners both on the one ſide, and the other (without any diſtinctio<g ref="char:cmbAbbrStroke">̄</g>, whither they be included in the quarter or noe) they shalbe brougt vnto the Marshall Generall of the Armie, or of the garniſon, without keeping them in Inns, or other places vpo<g ref="char:cmbAbbrStroke">̄</g> penalty, that they shall not be forced to pay any more for their dyet the<g ref="char:cmbAbbrStroke">̄</g> according as they are taxed in the liſt aboueſaid, and the contents thereof.</p>
+            <p>All Captaynes of horſe, or foote, which have the charge and office, of a <hi>Droſſard,</hi> or other<g ref="char:EOLhyphen"/>wiſe, being not in the poſſeſſion of their <hi>Droſſardſhip,</hi> or office ſhalbe releaſed for a Captaines ranſome ſpecified above, and being in poſſeſſion of the one, or of the other, they ſhal not be included in this Treaty, but shall pay each a ranſome as shalbe agreed on by them.</p>
+            <p>All thoſe alſo, which are not comprehended in the memorandum above ſaid, shall pay ſuch a ſumme of money, as shalbe likewiſe agreed vpon.</p>
+            <p>All Ranſomes, and dyet money ſhalbe payd with ſuch currant coine, and vpon the ſame valuation, as it goes in the place, where the priſoners are kept.</p>
+            <p>And ſeing it often happens, that ſome Horſe Captaines &amp; others are employed vpon en<g ref="char:EOLhyphen"/>terpriſes, and Commaund as <hi>chiefes,</hi> ouer a troupe of three or foure hundred men: ſerving either on Horsback, or a foote, without having any commiſſion, or entertainement aboue their ordinary pay: wee intend that ſuch Captaines ſhal giue noe higer ranſomes, then other Horſe, or foote Captaines, and if they haue any other Commiſſion, or entertaynment aboue their ordinary pay, they ſhall not be comprehended in this aggreement, but ſhall pay ſuch ranſomes as ſhalbe agreed vpon.</p>
+            <p>All Captaines, Officers and Souldiers mentionned here aboue, which were taken priſon<g ref="char:EOLhyphen"/>ners before the date of this preſent Treatie, and are included in the former Quarter of the xj<hi rend="sup">th</hi> of Iune in the yeare 1601. ſhalbe ſett al liberty by vertue of this quarter, in what place ſoeuer they are priſonners, aſſoone as they haue payd their ranſoms &amp; dyet, according to the taxation of the ſame quarter, and liſt made then: and ſhall in noe wiſe be detayned after the preſentation of their monies: vpon penalty of paying the charges, which ſhould arriſe here vpon afterward.</p>
+            <p>And thoſe which are taken priſonners during this preſent Treaty ſhall enioy the benefit hereof, moreouer this quarter generall ſhalbe obſerved &amp; kept ſtrictly, and punctually on-both ſides, ſo that noe man maye oppugne, or infring it in any manner ſoever, vpon payne of paying the aboueſaid expe<g ref="char:cmbAbbrStroke">̄</g>ſes: reſerving nevertheleſſe, that the chiefes on both ſides, which have power to make a generall quarter maye breake, or alter the ſame, when as the one, or the other ſide ſhall finde iuſt cauſes, and reaſons to doe it: vpon condition, that he shall giue
+<pb n="16" facs="tcp:137176:11"/> warning thereof twentie dayes before he breakes it, by an expreſſe Trumpetter, or drum<g ref="char:EOLhyphen"/>mer with an act vnder his owne hand: for otherwiſe this quarter shall in noe wiſe what<g ref="char:EOLhyphen"/>ſoeuer be infrenged or broken. And thoſe which shalbe taken priſonners within the terme of theſe xx. daies shalbe ranſomed according to the aboueſaid taxation, without any other charge; or detaynement: but thoſe which shalbe taken priſonners after the expiration of theſe 20 daies, shalbe bound to pay ſuch a ranſome, as shalbe agreed vpon with them, inten<g ref="char:EOLhyphen"/>ding that in this treaty all Captaines, officers, and ſoldiers, shalbe included, and all others above mentioned without any exception, whither they be in the army, or out of it in any garniſon. And to this ende we haue made two acts of this Treaty, of one and the ſame te<g ref="char:EOLhyphen"/>nure, and ſubſtance in te name of chiefes of the one and of the other Army, who haue ful power, and authority to make this quarter. Giuen in the Hagh the 14th of May 1602 and was ſigned.</p>
+            <closer>
+               <signed>
+                  <hi>F. M. Admirant of Arragon.<lb/> And is ſealed with his ſeale of Armes in redd waxe and vnder<g ref="char:EOLhyphen"/>neath is written</hi>
+                  <lb/> By order form his Ex<hi rend="sup">cie</hi>.<lb/> 
+                  <hi>And is alſo ſigned</hi>
+                  <lb/> G. de Roy.</signed>
+               <lb/> 
+               <hi>Tranſlated out of French into Dutch and is found to agree<lb/> with the principall</hi> 
+               <date>1602.</date>
+               <lb/>
+               <signed>JAN VAN DALEN Griffier, or Secretary to the Councill of<lb/> warre of the vnited Netherlands.</signed>
+            </closer>
+         </div>
+         <div type="list">
+            <head>A LIST</head>
+            <p>
+               <hi>Of the daylie diet, according to which euery Provoſt Marshall, and the Keepers of Priſonners on both ſides shall allow their priſonners, without any pretext of exceeding the ſame, ſo that if they doe ſatisfac<g ref="char:EOLhyphen"/>tion shalbe made by their perſons, and vpon their intertaynments.</hi>
+            </p>
+            <p>All theſe priſonners following ſhall haue noe more allowance for their meate and drinc<g ref="char:EOLhyphen"/>ke vpon what pretence ſoeuer but 10. ſtiuers a day vidz.</p>
+            <list>
+               <item>All private Souldiers ſerving a foote.</item>
+               <item>Conductours of the Ordinance, Amunition, of the victuals, of workes and fire workes.</item>
+               <item>Cannoniers.</item>
+               <item>Pionniers.</item>
+               <item>Saylours about the ordinance.</item>
+               <item>Brigd-men.</item>
+               <item>
+                  <hi>Sobreſtants,</hi> Commiſſes, Officers, Chaſſanantes &amp; worke Baſſes.</item>
+               <item>Miners.</item>
+               <item>Carpentiers.</item>
+               <item>Waggon-men &amp; drivers of Canon Horſes none of theſe are to haue aboue 10. fts. per diem.</item>
+            </list>
+            <p>Al theſe perſons following ſhall ſpend noe more in meate, or drincke, then fifteene ſti<g ref="char:EOLhyphen"/>uers a day. vidz.</p>
+            <list>
+               <item>All Horſemen.</item>
+               <item>Sariants.</item>
+               <item>Gentlemen of the ordnance &amp; maſter Gunners.</item>
+               <item>The Lieutenant, or particular Commis of the Waggons.</item>
+               <item>The Comiſes, or particular Commiſſaries of Canon Horſes.</item>
+               <item>The Lieutenant of the bridge.</item>
+               <item>The officers belonging to the Geſthouſe of the Armie.</item>
+            </list>
+            <pb n="17" facs="tcp:137176:11"/>
+            <p>All theſe perſons following contayned in the Quarter, ſhall ſpend no more in meate and drinke but a gilder a day, viz:
+<list>
+                  <item>A reformed Horſe Captaine.</item>
+                  <item>A Lieutenant, or a Cornet of horſe, whither reformed or not.</item>
+                  <item>A reformed Captaine of foote.</item>
+                  <item>An Aſſiſtant to the Sariant Majour.</item>
+                  <item>A Sariant Majour of a particular place.</item>
+                  <item>A Lieutenant, or an Enſigne reformed or not.</item>
+                  <item>A particular Quarter-maſter.</item>
+                  <item>A Captain of the wards.</item>
+                  <item>A Captaine of the Guides.</item>
+                  <item>A Commiſſarie of the Muſters.</item>
+                  <item>The Officiers, or Commiſſes, of the Veador, Contador, Pagador, or Treaſurer of warre</item>
+                  <item>The Contador, Commiſſe, Controuler, and Pagador of the ordinance.</item>
+                  <item>The Wagon-maſter Generall.</item>
+                  <item>The chiefe Commiſſe of the Canon horſes.</item>
+                  <item>The Maſters of Fortifications &amp; workes.</item>
+                  <item>The Captaine of the Saylours for the ordinance.</item>
+                  <item>The Captaine of the Pionniers.</item>
+                  <item>The Bridge-maſter.</item>
+                  <item>The Ingeniers &amp; Controulers of workes.</item>
+                  <item>The Captaine of the miners.</item>
+                  <item>The Captaine of the Carpenters.</item>
+                  <item>The Maſterſmith.</item>
+                  <item>The Phyſician, Quartermaſter, Auditor, Apothecary, &amp; Chyurgion of the ordinance.</item>
+                  <item>The particular Commiſſes of other victuals.</item>
+                  <item>The Stapelers and Senedores de Baſtimentos.</item>
+                  <item>The Controuler, or Commiſſe of the victuals.</item>
+               </list>
+            </p>
+            <p>The perſons following and all others of a greater quality may uſe themſelves, as they pleaſe, and ſpend every day as much as they liſt.</p>
+            <list>
+               <item>A horſe Captaine.</item>
+               <item>A Lieutenant Coronell.</item>
+               <item>A Sariant Majour of a Regiment.</item>
+               <item>A Lieutenant of the Ordinance.</item>
+               <item>A foote Captaine.</item>
+               <item>A Quarter-maſter Generall.</item>
+               <item>The chiefe Commiſſe, or Giver out of the Victuals, what it pleaſeth them.</item>
+            </list>
+            <p>Touching the yron money, a Captaine of foote, or a Captaine of Horſe, and all other of a higher quality, ſhall give no more to the Provoſt for his fee then two gilders.</p>
+            <p>And all other perſons of an inferiour qualitie, included within this quarter: ſhall give no more for their yrons then twentie ſtivers.</p>
+            <p>All other perſons, which are not included in this quarter, as Burgers, Peſants, Inhabitants of Townes, Marchants, Sutlars, and all other perſons not ſpecified hereabove, ſhal ſpend no more for their dyet in meate, and drinke, nor be charged with any more, then 15 fts: a day, yea not upon their owne deſire, unleſſe they had agreed for their ranſomes before and had put in ſufficient caution for the payment thereof: upon penaltie, that the Pro<g ref="char:EOLhyphen"/>voſt Marshall and others, which ſhall have allowed their priſoners more then is ſet down, in this liſt, shall looſe the ſame, aſwel of theſe priſoners, as of al others above taxed, which priſoners they shall not detayne for the expences over and above, nor hinder their going out, aſſoone as ever they are payd, according to the former taxation, upon penalty, that they shall have no other expences allowed them.</p>
+            <p>Of the perſons aboveſaid not included in this quarter, they shall take no more for their yrons then 30 ſtivers.</p>
+            <p>All Provoſts Marshals and keepers of Priſons of warre, shall be bound henceforward to uſe their priſoners well for their meat and drink, according to the rates above mentioned and that upon their honours, and as they shall anſwer it before God and man, ſo that no complaints come of it. Given by his Excellency in the Hagh, the 14. of May. 1602.
+<pb n="18" facs="tcp:137176:12"/> And was ſigned <hi>F. M. Admirant of Arragon.</hi> And underneath was written <hi>By order from his Excel.</hi> Subſcribed <hi>G. de Roy.</hi> Having in the margent thereof his ſeale of armes in red waxe. <hi>And agreeth with the principall, witneſſe mee</hi> IAN VAN DALEN.</p>
+         </div>
+         <div type="statement">
+            <head>The Copie of the Quarter amplified by Marqueſſe Spinola. Tranſlated out of Dutch.</head>
+            <p>TO take away all difficulties, that might ariſe upon certaine points, about keeping of the quarter made heretofore by the Admirant of Arragon Anno 1602. and to treate of ſome others, whereof no mention yet was made in the aforeſaid quarter generall; it is agreed on both ſides, to depute two Captains on each ſide, with full authority and power to deter<g ref="char:EOLhyphen"/>mine, and end the ſaid difficulties, which were agreed upon the 17. of October 1622. in the village of Calmpthout, where theſe points following were concluded and agreed on; be<g ref="char:EOLhyphen"/>tween Captain d'Aubermont, Captain of a Troop of horſe, and Captain Fourdine, Captain of a Company of high dutchies, deputed on the one ſide, and Monſieur de Broecham, horſe Captain, Droſſard of Bergin op Zoom, and Sr: Iohn Hacket Lieut. Colonel on the other ſide.</p>
+            <p n="1">1. Imprimis that the ſaid Generall quarter made the 14. of May 1602. shall be hence for<g ref="char:EOLhyphen"/>ward punctually kept, and obſerved.</p>
+            <p n="2">2. To come to an end then, and to releaſe, and ſet at libertie all ſouldiers, which are de<g ref="char:EOLhyphen"/>tained in priſon at this preſent on both ſides: It is agreed, that they shall all of them be ſet at libertie, in paying their ranſomes, and 25 dayes expences, according to the ordinary taxa<g ref="char:EOLhyphen"/>tion in the generall quarter.</p>
+            <p n="3">3. That all Souldiers priſoners, which have not bin priſoners 25 dayes, as aforeſaid, shall not lye in priſon, or be detained; but pay proportionably for ſo many dayes, as they have bin taken priſoners.</p>
+            <p n="4">4. That all priſoners on both ſides included in this treatie, and in the Generall quarter, shall be ranſomed within the time of the 24. day of this preſent month.</p>
+            <p n="5">5. And if any Captain be failing herein, and ſends not for them upon the 24. of Octo<g ref="char:EOLhyphen"/>ber, to ranſome and releaſe his Souldiers, according to this preſent agreement, he shall pay the charge of the dayes which shall be over and above the 24. of October.</p>
+            <p n="6">6. That aſwell on the one ſide as on the other, all Captains and Officers, which have pri<g ref="char:EOLhyphen"/>ſoners taken, shalbe commanded not to omit the ſending of their ranſomes, and the expen<g ref="char:EOLhyphen"/>ces of the Souldiers, priſoners, according to the agreement aboveſaid.</p>
+            <p n="7">7. And foraſmuch as in the generall quarter, one cannot know in what place the quarter ought ordinarily to be kept, which cauſeth often diſputes: It is agreed on, that the quarter shall be kept, and obſerved in all places, where Contribution is payd, with the conſent and will of thoſe that are owners of the ſame places, as alſo in neutrall Countries.</p>
+            <p n="8">8. And ſeeing that in the aforeſaid Generall quarter, many of the ſuperiour, and chief Officers, as alſo ſome of the inferiour, and meaner Officers and others; having pay aſwell on the one ſide, as on the other, are not included therein: Wee declare that henceforward, all thoſe which are not comprehended in the generall quarter above mentioned, of what quality ſoever they bee, and which are bound to follow the armies on both ſides, shall enioy the benefit of this quarter, upon condition of paying ſix months of their entertainments onely the two Generals excepted.</p>
+            <p n="9">9. And becauſe in one of the articles of the quarter, there is a Clauſe, that Captains, and other military Officers having in their poſſeſſion ſome other charge, or commiſſion then military, should not be included in the aforeſaid generall quarter, it is intended, that they onely shall be comprehended in that Article of the quarter of their military charge, without paying any other ranſome.</p>
+            <p n="10">10. And ſeeing in the generall quarter, there is no mention made of any poſts or Meſſen<g ref="char:EOLhyphen"/>gers, it is agreed on, that all Meſſengers or poſts being taken on horsback shall be ranſomable for the ranſome of a horſeman, and thoſe which go a foot for the ranſome of a private ſoul<g ref="char:EOLhyphen"/>dier: upon condition that under ſuch a pretext or colour no man of quality may paſſe, who indeed ought to take no ſuch office upon him.</p>
+            <p n="11">11. It is likewiſe agreed upon and is intended, that all Traitors, Runnawaies, Malefa<g ref="char:EOLhyphen"/>ctours ſentenced and banished by juſtice: shall not be included in this accord, but to all others they shall be bound to give quarter that are ſo taken priſoners, aſwell on the one
+<pb n="19" facs="tcp:137176:12"/> ſide, as on the other, though one is not bound to give quarter to thoſe perſons aboveſaid.</p>
+            <p n="12">12. And ſeeing in the Generall quarter, there is an Auditor of the ordinance nominated, whereas indeed there is none. It is intended, and is agreed on, that under the ſame Article the particular Auditors of Garriſons, Regiments, and Tercias shall be included, and tou<g ref="char:EOLhyphen"/>ching the Auditor Generall, and his Griffiers in the Armie of his Catholique Majeſty; and the Fiſcall, and his Griffier in the army of the States of the united Provinces, they shall be comprehended in the eighth Article mentioning the ſuperiour, and chiefe officers, and the meaner Officers and others, which are not included in the former generall quarter.</p>
+            <p>All which Articles shalbe punctually obſerved and kept on this ſide, in witneſſe whereof we have ſigned hereunto. Given in the Army at Brecht the 18. of October 1622. And was ſigned <hi>Ambroſio Spinola.</hi> By order from his Excel. And was ſubſcribed <hi>De la Motte.</hi> And ſealed with the ſeale of armes of the ſaid Lord Marqueſſe in red waxe. And tranſlated out of French into Dutch, and out of Dutch into Engliſh, and is found to agree with the Origi<g ref="char:EOLhyphen"/>nall. <hi>Ian van Dalen,</hi> Griffier.</p>
+         </div>
+         <div type="proclamation">
+            <head>HIS HIGHNESSE THE PRINCE OF ORANGE HIS Proclamation and Edict, againſt wicked Swearers, and Blaſphemers of the ſacred Name of God.</head>
+            <p>WHereas by daylie experience, a great number of ungodly Swearers and Blaſphe<g ref="char:EOLhyphen"/>mers, are in this preſent Armie: It is ſo that his Highneſſe, to prohibite and punish all ſuch abhominations and blaſphemies, if theſe Tranſgreſſors and Offendors, of what Na<g ref="char:EOLhyphen"/>tion ſoever they be, shall preſume to ſweare by the moſt holy Name of God (if they be Officers, the firſt time shall forfeit a moneths pay, whereof one third part shall be given to the Informers, and the other two parts to the relief of the poor wounded ſick Souldiers) &amp; if the ſecond time, the Officers shall be degraded from their charge and command, as long as his Highneſſe shall think fitting. And in caſe they be Souldiers, or other Perſons, which bear no office or charge in the Armie, the firſt time they shalbe lockt to a poſt to the open view of all men, before the front and head of their Quarter &amp; Regiment, as an example to others, and afterwards to be committed to priſon to live with bread and water for the ſpace of two dayes: And the ſecond time, to have a glowing aule boared through their tongue, and beſides to be baniſhed out of the command of this State.</p>
+            <p>Charging and commanding by theſe, all Colonels, Captains, and other Officers what<g ref="char:EOLhyphen"/>ſoever, to proceed againſt the Offendors hereof, and to ſee that the execution be ſtrictly and duely performed, without any favour or connivence, according to the contents a<g ref="char:EOLhyphen"/>boveſaid, and the ſecond time to inform his Highnes thereof, to the end that theſe Penal<g ref="char:EOLhyphen"/>ties, againſt Officers, Souldiers, and other Offendors (with the conſent of his Highneſſe) may be inflicted upon them. Given in the Campe at Botbergen, neere Rhyneberk, this 19. of Iuly 1642. <hi>ſtylo novo,</hi> and was ſigned <hi>Frederick Henry de Naſſau,</hi> and underneath ſtood, By order from his Highneſſe, <hi>C. Huygens.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
